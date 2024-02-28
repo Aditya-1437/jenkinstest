@@ -1,4 +1,4 @@
-public class Main{
+public class add{
 	// public static int add(int a, int b){
 	// 	reutrn a+b;
 	// }
